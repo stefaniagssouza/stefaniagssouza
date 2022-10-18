@@ -1,16 +1,33 @@
-### Hi there 👋
+![capa github](https://github.com/stefaniagssouza/stefaniagssouza/blob/4e0ed1741817440010091c7fd28ad85125604f21/Capa%20github.jpg)  
 
-<!--
-**stefaniagssouza/stefaniagssouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Seja bem-vindo! :) <img src="https://github.com/stefaniagssouza/stefaniagssouza/blob/4e0ed1741817440010091c7fd28ad85125604f21/Hi.gif" width="30px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Sou a Stefânia, fiz faculdade de Direito na UFMG, mas realizei transição de carreira para a área de dados, possuindo MBA em Business Intelligence pela Faculdade Descomplica. Atualmente atuo como analista de dados. Estudo Python, PowerBI, SQL, Scrum e Cloud (Azure e AWS).
+
+Amo ler :books: !
+Sou mãe de dois gatinhos, o Caramelo e o Luke. 
+
+---
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefaniagssouza&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=stefaniagssouza&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>  
+
+---
+
+Onde me encontrar? :mag:  
+
+<a href="https://www.linkedin.com/in/stefaniagsmarques/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/stefaniagsmarques/)  
+
+<a href="mailto:stefaniagsouza@hotmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:stefaniagsouza@hotmail.com)  
+
+---  
+
+![](https://komarev.com/ghpvc/?username=stefaniagssouza&color=blue&style=flat)
