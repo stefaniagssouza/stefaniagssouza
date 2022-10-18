@@ -31,3 +31,10 @@ Onde me encontrar? :mag:
 ---  
 
 ![](https://komarev.com/ghpvc/?username=stefaniagssouza&color=blue&style=flat)
+
+---
+
+Fontes das imagens usadas na capa:
+<a href="https://www.freepik.com/free-vector/data-analysis-icons_1530355.htm#query=data%20science&position=26&from_view=search&track=sph">Image by macrovector</a> on Freepik
+<a href="https://www.freepik.com/free-vector/businesswoman-doing-different-actions_2881134.htm#query=woman&position=23&from_view=author">Image by pikisuperstar</a> on Freepik
+<a href="https://www.freepik.com/free-vector/cute-cats-with-blank-papers_1502984.htm">Image by brgfx</a> on Freepik
