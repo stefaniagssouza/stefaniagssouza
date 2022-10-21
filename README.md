@@ -1,4 +1,4 @@
-![capa github](https://github.com/stefaniagssouza/stefaniagssouza/blob/4e0ed1741817440010091c7fd28ad85125604f21/Capa%20github.jpg)  
+![capa github](https://github.com/stefaniagssouza/stefaniagssouza/blob/4d2f325e6b91c315826472cc74c93aacb5925d73/Capa%20github%20(1).jpg)  
 
 
 ### Seja bem-vindo! :) <img src="https://github.com/stefaniagssouza/stefaniagssouza/blob/4e0ed1741817440010091c7fd28ad85125604f21/Hi.gif" width="30px">
